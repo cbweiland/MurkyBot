@@ -4,9 +4,12 @@ Discord bot for creating and signing up for events through discord.  Set the cha
 
 C#
 .NET CORE 3.1
+
 Discord.Net to interface with discord - https://github.com/discord-net/Discord.Net
 
+
 I threw this together in a day and then spent a little time after fixing/adding other supported events.  Does need some work refactoring to make the code cleaner.  Currently set to use a Yaml file for the prefix for discord commands.  
+
 
 Future TODOs
 - Refactor code to be cleaner, including but not limited to...
