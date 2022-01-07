@@ -1,0 +1,79 @@
+02:59:32 [Info] Discord: Discord.Net v2.4.0 (API v6)
+02:59:33 [Verbose] Rest: GET users/@me: 796.96 ms
+02:59:33 [Info] Gateway: Connecting
+02:59:33 [Verbose] Rest: GET gateway: 45.16 ms
+02:59:34 [Info] Gateway: Connected
+02:59:34 [Verbose] Gateway: Connected to The Camp
+02:59:34 [Verbose] Gateway: Connected to Barnabas' Test server
+02:59:34 [Info] Gateway: Ready
+02:59:52 [Verbose] Rest: POST channels/852229238617669672/messages: 146.7 ms
+02:59:52 [Verbose] Command: Executed "botstatus" for Cdub8D#7793 in Barnabas' Test server/general
+04:22:22 [Info] Discord: Discord.Net v2.4.0 (API v6)
+04:22:23 [Verbose] Rest: GET users/@me: 525.92 ms
+04:22:23 [Info] Gateway: Connecting
+04:22:23 [Verbose] Rest: GET gateway: 46.17 ms
+04:22:24 [Info] Gateway: Connected
+04:22:24 [Verbose] Gateway: Connected to Barnabas' Test server
+04:22:24 [Verbose] Gateway: Connected to The Camp
+04:22:24 [Info] Gateway: Ready
+04:22:27 [Verbose] Rest: POST channels/852229238617669672/messages: 191.93 ms
+04:22:27 [Verbose] Command: Executed "botstatus" for Cdub8D#7793 in Barnabas' Test server/general
+04:22:47 [Error] Command: Discord.Commands.CommandException: Error occurred executing "set_eventCreateChannel" for Cdub8D#7793 in Barnabas' Test server/general.
+ ---> System.InvalidOperationException: The entity type 'ValueTask<ChannelConfig>' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at Calendar.Bot.Commands.SetEventCreatingChannelCommand.SetPostingChannel(UInt64 channelId) in C:\Users\Cody\Documents\Projects\CalendarBot\CalendarBot\Commands\SetEventCreatingChannelCommand.cs:line 34
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteInternalAsync(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+04:22:47 [Verbose] Command: Executed "set_eventCreateChannel" for Cdub8D#7793 in Barnabas' Test server/general
+04:24:52 [Info] Discord: Discord.Net v2.4.0 (API v6)
+04:24:52 [Verbose] Rest: GET users/@me: 515.2 ms
+04:24:53 [Info] Gateway: Connecting
+04:24:53 [Verbose] Rest: GET gateway: 47.87 ms
+04:24:53 [Info] Gateway: Connected
+04:24:53 [Verbose] Gateway: Connected to The Camp
+04:24:53 [Verbose] Gateway: Connected to Barnabas' Test server
+04:24:54 [Info] Gateway: Ready
+04:25:04 [Verbose] Rest: POST channels/852229238617669672/messages: 129.64 ms
+04:25:04 [Verbose] Command: Executed "botstatus" for Cdub8D#7793 in Barnabas' Test server/general
+04:25:08 [Verbose] Rest: POST channels/852229238617669672/messages: 141.97 ms
+04:25:08 [Verbose] Command: Executed "set_eventCreateChannel" for Cdub8D#7793 in Barnabas' Test server/general
+04:25:27 [Verbose] Rest: POST channels/852229238617669672/messages: 124.72 ms
+04:25:27 [Verbose] Command: Executed "set_eventPostChannel" for Cdub8D#7793 in Barnabas' Test server/general
+04:26:11 [Info] Discord: Discord.Net v2.4.0 (API v6)
+04:26:12 [Verbose] Rest: GET users/@me: 481.42 ms
+04:26:12 [Info] Gateway: Connecting
+04:26:12 [Verbose] Rest: GET gateway: 61.06 ms
+04:26:13 [Info] Gateway: Connected
+04:26:13 [Verbose] Gateway: Connected to Barnabas' Test server
+04:26:13 [Verbose] Gateway: Connected to The Camp
+04:26:13 [Info] Gateway: Ready
+04:27:13 [Verbose] Rest: POST channels/865681083169636362/messages: 166.61 ms
+04:27:14 [Verbose] Rest: PUT channels/865681083169636362/messages/883750059819274312/reactions/%f0%9f%9f%a5/@me: 188.39 ms
+04:27:14 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/865681083169636362/messages/883750059819274312/reactions/%f0%9f%9f%a9/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+04:27:14 [Verbose] Rest: PUT channels/865681083169636362/messages/883750059819274312/reactions/%f0%9f%9f%a9/@me: 381.01 ms
+04:27:14 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/865681083169636362/messages/883750059819274312/reactions/%f0%9f%9f%a8/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+04:27:16 [Verbose] Rest: PUT channels/865681083169636362/messages/883750059819274312/reactions/%f0%9f%9f%a8/@me: 1614.15 ms
+04:27:16 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/865681083169636362/messages/883750059819274312/reactions/%f0%9f%9f%aa/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+04:27:17 [Verbose] Rest: PUT channels/865681083169636362/messages/883750059819274312/reactions/%f0%9f%9f%aa/@me: 513.88 ms
+04:27:17 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/865681083169636362/messages/883750059819274312/reactions/%f0%9f%9f%a6/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+04:27:18 [Verbose] Rest: PUT channels/865681083169636362/messages/883750059819274312/reactions/%f0%9f%9f%a6/@me: 981.69 ms
+04:27:18 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/865681083169636362/messages/883750059819274312/reactions/%f0%9f%94%b3/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+04:27:19 [Verbose] Rest: PUT channels/865681083169636362/messages/883750059819274312/reactions/%f0%9f%94%b3/@me: 1659.01 ms
+04:27:19 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas' Test server/general
+04:27:41 [Verbose] Rest: POST channels/852227993249120337/messages: 129.03 ms
+04:27:59 [Verbose] Rest: POST channels/852227993249120337/messages: 176.72 ms
+04:27:59 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Barnabas' Test server/core
+04:29:02 [Info] Discord: Discord.Net v2.4.0 (API v6)
+04:29:02 [Verbose] Rest: GET users/@me: 522.67 ms
+04:29:02 [Info] Gateway: Connecting
+04:29:02 [Verbose] Rest: GET gateway: 47.59 ms
+04:29:03 [Info] Gateway: Connected
+04:29:03 [Verbose] Gateway: Connected to The Camp
+04:29:03 [Verbose] Gateway: Connected to Barnabas' Test server
+04:29:04 [Info] Gateway: Ready
+04:29:14 [Verbose] Rest: POST channels/852227993249120337/messages: 150.95 ms
+04:29:14 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Barnabas' Test server/core

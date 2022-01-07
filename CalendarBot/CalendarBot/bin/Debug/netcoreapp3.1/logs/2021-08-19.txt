@@ -1,0 +1,26 @@
+11:38:42 [Info] Discord: Discord.Net v2.4.0 (API v6)
+11:38:43 [Verbose] Rest: GET users/@me: 577.27 ms
+11:38:43 [Info] Gateway: Connecting
+11:38:43 [Verbose] Rest: GET gateway: 58.35 ms
+11:38:44 [Info] Gateway: Connected
+11:38:44 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+11:38:44 [Verbose] Gateway: Connected to Barnabas's Test server
+11:38:45 [Info] Gateway: Ready
+11:40:55 [Verbose] Rest: POST channels/865681083169636362/messages: 162.18 ms
+11:40:56 [Verbose] Rest: PUT channels/865681083169636362/messages/878060996768452669/reactions/%e2%9c%85/@me: 115.15 ms
+11:40:56 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas' Test server/general
+11:41:41 [Verbose] Rest: POST channels/852229238617669672/messages: 155.66 ms
+11:41:41 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Barnabas' Test server/general
+11:42:02 [Verbose] Rest: POST channels/865681083169636362/messages: 218.76 ms
+11:42:03 [Verbose] Rest: PUT channels/865681083169636362/messages/878061277212188672/reactions/%f0%9f%9f%a5/@me: 113.74 ms
+11:42:03 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/865681083169636362/messages/878061277212188672/reactions/%f0%9f%9f%a9/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+11:42:03 [Verbose] Rest: PUT channels/865681083169636362/messages/878061277212188672/reactions/%f0%9f%9f%a9/@me: 666.07 ms
+11:42:03 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/865681083169636362/messages/878061277212188672/reactions/%f0%9f%9f%a8/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+11:42:05 [Verbose] Rest: PUT channels/865681083169636362/messages/878061277212188672/reactions/%f0%9f%9f%a8/@me: 1293.68 ms
+11:42:05 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/865681083169636362/messages/878061277212188672/reactions/%f0%9f%9f%aa/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+11:42:06 [Verbose] Rest: PUT channels/865681083169636362/messages/878061277212188672/reactions/%f0%9f%9f%aa/@me: 1475.43 ms
+11:42:06 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/865681083169636362/messages/878061277212188672/reactions/%f0%9f%9f%a6/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+11:42:07 [Verbose] Rest: PUT channels/865681083169636362/messages/878061277212188672/reactions/%f0%9f%9f%a6/@me: 1062.39 ms
+11:42:07 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas' Test server/general
+11:42:45 [Verbose] Rest: POST channels/852229238617669672/messages: 137.08 ms
+11:42:45 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Barnabas' Test server/general

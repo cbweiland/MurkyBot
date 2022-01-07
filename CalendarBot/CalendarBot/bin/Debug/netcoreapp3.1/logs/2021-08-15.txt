@@ -1,0 +1,562 @@
+02:23:31 [Info] Discord: Discord.Net v2.4.0 (API v6)
+02:23:32 [Verbose] Rest: GET users/@me: 858.01 ms
+02:23:32 [Info] Gateway: Connecting
+02:23:32 [Verbose] Rest: GET gateway: 46 ms
+02:23:33 [Info] Gateway: Connected
+02:23:33 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+02:23:33 [Info] Gateway: Ready
+02:25:24 [Verbose] Rest: POST channels/872946232983699526/messages: 157.54 ms
+02:25:26 [Verbose] Rest: PUT channels/872946232983699526/messages/876471668799840346/reactions/%f0%9f%9f%a5/@me: 184.88 ms
+02:25:26 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/872946232983699526/messages/876471668799840346/reactions/%f0%9f%9f%a9/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+02:25:27 [Verbose] Rest: PUT channels/872946232983699526/messages/876471668799840346/reactions/%f0%9f%9f%a9/@me: 665.48 ms
+02:25:27 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/872946232983699526/messages/876471668799840346/reactions/%f0%9f%9f%a8/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+02:25:28 [Verbose] Rest: PUT channels/872946232983699526/messages/876471668799840346/reactions/%f0%9f%9f%a8/@me: 1132.53 ms
+02:25:28 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/872946232983699526/messages/876471668799840346/reactions/%f0%9f%9f%aa/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+02:25:30 [Verbose] Rest: PUT channels/872946232983699526/messages/876471668799840346/reactions/%f0%9f%9f%aa/@me: 1563.53 ms
+02:25:30 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/872946232983699526/messages/876471668799840346/reactions/%f0%9f%9f%a6/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+02:25:31 [Verbose] Rest: PUT channels/872946232983699526/messages/876471668799840346/reactions/%f0%9f%9f%a6/@me: 1492.29 ms
+02:25:31 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+02:42:58 [Info] Discord: Discord.Net v2.4.0 (API v6)
+02:42:58 [Verbose] Rest: GET users/@me: 554.65 ms
+02:42:59 [Info] Gateway: Connecting
+02:42:59 [Verbose] Rest: GET gateway: 47.91 ms
+02:42:59 [Info] Gateway: Connected
+02:42:59 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+02:43:00 [Info] Gateway: Ready
+02:43:21 [Verbose] Rest: POST channels/872946232983699526/messages: 197.23 ms
+02:43:23 [Verbose] Rest: PUT channels/872946232983699526/messages/876476184945360987/reactions/%f0%9f%9f%a5/@me: 439.86 ms
+02:43:23 [Verbose] Rest: PUT channels/872946232983699526/messages/876476184945360987/reactions/%f0%9f%9f%a9/@me: 176.51 ms
+02:43:23 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/872946232983699526/messages/876476184945360987/reactions/%f0%9f%9f%a8/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+02:43:24 [Verbose] Rest: PUT channels/872946232983699526/messages/876476184945360987/reactions/%f0%9f%9f%a8/@me: 599.28 ms
+02:43:24 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/872946232983699526/messages/876476184945360987/reactions/%f0%9f%9f%aa/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+02:43:25 [Verbose] Rest: PUT channels/872946232983699526/messages/876476184945360987/reactions/%f0%9f%9f%aa/@me: 1110.18 ms
+02:43:25 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/872946232983699526/messages/876476184945360987/reactions/%f0%9f%9f%a6/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+02:43:27 [Verbose] Rest: PUT channels/872946232983699526/messages/876476184945360987/reactions/%f0%9f%9f%a6/@me: 2028.86 ms
+02:43:27 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+02:55:57 [Info] Discord: Discord.Net v2.4.0 (API v6)
+02:55:57 [Verbose] Rest: GET users/@me: 501.78 ms
+02:55:57 [Info] Gateway: Connecting
+02:55:57 [Verbose] Rest: GET gateway: 59.81 ms
+02:55:58 [Info] Gateway: Connected
+02:55:58 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+02:55:59 [Info] Gateway: Ready
+03:31:40 [Info] Discord: Discord.Net v2.4.0 (API v6)
+03:31:40 [Verbose] Rest: GET users/@me: 509.67 ms
+03:31:40 [Info] Gateway: Connecting
+03:31:40 [Verbose] Rest: GET gateway: 44.59 ms
+03:31:41 [Info] Gateway: Connected
+03:31:41 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+03:31:41 [Info] Gateway: Ready
+03:31:51 [Warning] Gateway: Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'SignUps'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__169_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:8e5d2661-264f-4251-a62e-604e7a3a8ebd
+Error Number:208,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Calendar.Bot.Reactions.ReactionHelper.SignUserUp(EventMeeting eventMeeting, SocketReaction reaction) in C:\Users\Cody\Documents\Projects\CalendarBot\CalendarBot\Reactions\ReactionHelper.cs:line 54
+   at Calendar.Bot.Reactions.ReactionHelper.ProcessReaction(String msgId, SocketReaction reaction) in C:\Users\Cody\Documents\Projects\CalendarBot\CalendarBot\Reactions\ReactionHelper.cs:line 28
+   at Calendar.Bot.Services.ReactionHandler.OnReactionAdded_Event(Cacheable`2 message, ISocketMessageChannel channel, SocketReaction reaction) in C:\Users\Cody\Documents\Projects\CalendarBot\CalendarBot\Services\ReactionHandler.cs:line 43
+   at Discord.EventExtensions.InvokeAsync[T1,T2,T3](AsyncEvent`1 eventHandler, T1 arg1, T2 arg2, T3 arg3)
+   at Discord.WebSocket.DiscordSocketClient.TimeoutWrap(String name, Func`1 action)
+03:32:21 [Info] Discord: Discord.Net v2.4.0 (API v6)
+03:32:22 [Verbose] Rest: GET users/@me: 517.21 ms
+03:32:22 [Info] Gateway: Connecting
+03:32:22 [Verbose] Rest: GET gateway: 48.31 ms
+03:32:22 [Info] Gateway: Connected
+03:32:22 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+03:32:23 [Info] Gateway: Ready
+03:34:22 [Info] Discord: Discord.Net v2.4.0 (API v6)
+03:34:22 [Verbose] Rest: GET users/@me: 474.18 ms
+03:34:22 [Info] Gateway: Connecting
+03:34:22 [Verbose] Rest: GET gateway: 44.14 ms
+03:34:23 [Info] Gateway: Connected
+03:34:23 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+03:34:24 [Info] Gateway: Ready
+03:35:15 [Info] Discord: Discord.Net v2.4.0 (API v6)
+03:35:15 [Verbose] Rest: GET users/@me: 459.85 ms
+03:35:15 [Info] Gateway: Connecting
+03:35:15 [Verbose] Rest: GET gateway: 48.47 ms
+03:35:16 [Info] Gateway: Connected
+03:35:16 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+03:35:16 [Info] Gateway: Ready
+03:36:08 [Warning] Gateway: A ReactionAdded handler is blocking the gateway task.
+03:47:40 [Info] Discord: Discord.Net v2.4.0 (API v6)
+03:47:40 [Verbose] Rest: GET users/@me: 560.88 ms
+03:47:41 [Info] Gateway: Connecting
+03:47:41 [Verbose] Rest: GET gateway: 50.34 ms
+03:47:42 [Info] Gateway: Connected
+03:47:42 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+03:47:43 [Info] Gateway: Ready
+03:48:40 [Verbose] Rest: POST channels/872946232983699526/messages: 145.8 ms
+03:48:43 [Verbose] Rest: PUT channels/872946232983699526/messages/876492602336227388/reactions/%f0%9f%9f%a5/@me: 156.17 ms
+03:48:43 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/872946232983699526/messages/876492602336227388/reactions/%f0%9f%9f%a9/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+03:48:43 [Verbose] Rest: PUT channels/872946232983699526/messages/876492602336227388/reactions/%f0%9f%9f%a9/@me: 347.23 ms
+03:48:43 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/872946232983699526/messages/876492602336227388/reactions/%f0%9f%9f%a8/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+03:48:44 [Verbose] Rest: PUT channels/872946232983699526/messages/876492602336227388/reactions/%f0%9f%9f%a8/@me: 709.12 ms
+03:48:44 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/872946232983699526/messages/876492602336227388/reactions/%f0%9f%9f%aa/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+03:48:44 [Verbose] Rest: PUT channels/872946232983699526/messages/876492602336227388/reactions/%f0%9f%9f%aa/@me: 533.54 ms
+03:48:44 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/872946232983699526/messages/876492602336227388/reactions/%f0%9f%9f%a6/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+03:48:46 [Verbose] Rest: PUT channels/872946232983699526/messages/876492602336227388/reactions/%f0%9f%9f%a6/@me: 1676.41 ms
+03:48:46 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+04:07:40 [Info] Discord: Discord.Net v2.4.0 (API v6)
+04:07:40 [Verbose] Rest: GET users/@me: 521.59 ms
+04:07:41 [Info] Gateway: Connecting
+04:07:41 [Verbose] Rest: GET gateway: 43.83 ms
+04:07:41 [Info] Gateway: Connected
+04:07:41 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+04:07:42 [Info] Gateway: Ready
+04:07:55 [Error] Command: Discord.Commands.CommandException: Error occurred executing "get_signups" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general.
+ ---> System.ArgumentException: Field value must not be null or empty. (Parameter 'Value')
+   at Discord.EmbedFieldBuilder.set_Value(Object value)
+   at Discord.EmbedFieldBuilder.WithValue(Object value)
+   at Discord.EmbedBuilder.AddField(String name, Object value, Boolean inline)
+   at CalendarBot.Helpers.EmbedHelper.BuildEmbedParticipants(EventMeeting eventMeeting) in C:\Users\Cody\Documents\Projects\CalendarBot\CalendarBot\Helpers\EmbedHelper.cs:line 59
+   at Calendar.Bot.Commands.GetParticipantsCommand.CreateEvent(String messageId) in C:\Users\Cody\Documents\Projects\CalendarBot\CalendarBot\Commands\GetParticipantsCommand.cs:line 25
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteInternalAsync(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+04:07:55 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+04:08:20 [Error] Command: Discord.Commands.CommandException: Error occurred executing "get_signups" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general.
+ ---> System.ArgumentException: Field value must not be null or empty. (Parameter 'Value')
+   at Discord.EmbedFieldBuilder.set_Value(Object value)
+   at Discord.EmbedFieldBuilder.WithValue(Object value)
+   at Discord.EmbedBuilder.AddField(String name, Object value, Boolean inline)
+   at CalendarBot.Helpers.EmbedHelper.BuildEmbedParticipants(EventMeeting eventMeeting) in C:\Users\Cody\Documents\Projects\CalendarBot\CalendarBot\Helpers\EmbedHelper.cs:line 59
+   at Calendar.Bot.Commands.GetParticipantsCommand.CreateEvent(String messageId) in C:\Users\Cody\Documents\Projects\CalendarBot\CalendarBot\Commands\GetParticipantsCommand.cs:line 25
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteInternalAsync(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+04:08:20 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+04:12:17 [Info] Discord: Discord.Net v2.4.0 (API v6)
+04:12:18 [Verbose] Rest: GET users/@me: 552.99 ms
+04:12:18 [Info] Gateway: Connecting
+04:12:18 [Verbose] Rest: GET gateway: 46.38 ms
+04:12:19 [Info] Gateway: Connected
+04:12:19 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+04:12:19 [Info] Gateway: Ready
+04:12:28 [Verbose] Rest: POST channels/872946232983699526/messages: 125.54 ms
+04:12:28 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+04:22:33 [Info] Discord: Discord.Net v2.4.0 (API v6)
+04:22:34 [Verbose] Rest: GET users/@me: 553.81 ms
+04:22:34 [Info] Gateway: Connecting
+04:22:34 [Verbose] Rest: GET gateway: 44.79 ms
+04:22:35 [Info] Gateway: Connected
+04:22:35 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+04:22:35 [Info] Gateway: Ready
+04:22:42 [Verbose] Rest: POST channels/872946232983699526/messages: 172.04 ms
+04:22:42 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+04:25:40 [Info] Discord: Discord.Net v2.4.0 (API v6)
+04:25:41 [Verbose] Rest: GET users/@me: 568.86 ms
+04:25:41 [Info] Gateway: Connecting
+04:25:41 [Verbose] Rest: GET gateway: 52.16 ms
+04:25:42 [Info] Gateway: Connected
+04:25:42 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+04:25:42 [Info] Gateway: Ready
+04:26:33 [Verbose] Rest: POST channels/872946232983699526/messages: 147.86 ms
+04:26:35 [Verbose] Rest: PUT channels/872946232983699526/messages/876502132428247143/reactions/%e2%9c%85/@me: 168.62 ms
+04:26:35 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+04:27:02 [Verbose] Rest: POST channels/872946232983699526/messages: 111.06 ms
+04:27:02 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+04:36:02 [Info] Discord: Discord.Net v2.4.0 (API v6)
+04:36:03 [Verbose] Rest: GET users/@me: 487.15 ms
+04:36:03 [Info] Gateway: Connecting
+04:36:03 [Verbose] Rest: GET gateway: 44.76 ms
+04:36:03 [Info] Gateway: Connected
+04:36:03 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+04:36:04 [Info] Gateway: Ready
+04:36:49 [Verbose] Rest: POST channels/872946232983699526/messages: 134.24 ms
+04:36:49 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+04:37:42 [Info] Discord: Discord.Net v2.4.0 (API v6)
+04:37:43 [Verbose] Rest: GET users/@me: 453.97 ms
+04:37:43 [Info] Gateway: Connecting
+04:37:43 [Verbose] Rest: GET gateway: 44.48 ms
+04:37:43 [Info] Gateway: Connected
+04:37:43 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+04:37:44 [Info] Gateway: Ready
+04:37:56 [Error] Command: Discord.Commands.CommandException: Error occurred executing "get_signups" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general.
+ ---> System.ArgumentException: Field value must not be null or empty. (Parameter 'Value')
+   at Discord.EmbedFieldBuilder.set_Value(Object value)
+   at Discord.EmbedFieldBuilder.WithValue(Object value)
+   at Discord.EmbedBuilder.AddField(String name, Object value, Boolean inline)
+   at CalendarBot.Helpers.EmbedHelper.BuildEmbedParticipants(EventMeeting eventMeeting) in C:\Users\Cody\Documents\Projects\CalendarBot\CalendarBot\Helpers\EmbedHelper.cs:line 84
+   at Calendar.Bot.Commands.GetParticipantsCommand.CreateEvent(String messageId) in C:\Users\Cody\Documents\Projects\CalendarBot\CalendarBot\Commands\GetParticipantsCommand.cs:line 25
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteInternalAsync(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+04:37:56 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+04:39:32 [Info] Discord: Discord.Net v2.4.0 (API v6)
+04:39:33 [Verbose] Rest: GET users/@me: 543.46 ms
+04:39:33 [Info] Gateway: Connecting
+04:39:33 [Verbose] Rest: GET gateway: 51.23 ms
+04:39:34 [Info] Gateway: Connected
+04:39:34 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+04:39:34 [Info] Gateway: Ready
+04:39:44 [Verbose] Rest: POST channels/872946232983699526/messages: 181.44 ms
+04:39:44 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+04:40:15 [Info] Discord: Discord.Net v2.4.0 (API v6)
+04:40:15 [Verbose] Rest: GET users/@me: 473.7 ms
+04:40:15 [Info] Gateway: Connecting
+04:40:16 [Verbose] Rest: GET gateway: 51.01 ms
+04:40:16 [Info] Gateway: Connected
+04:40:16 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+04:40:17 [Info] Gateway: Ready
+04:40:23 [Verbose] Rest: POST channels/872946232983699526/messages: 165.25 ms
+04:40:23 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+04:41:02 [Info] Discord: Discord.Net v2.4.0 (API v6)
+04:41:03 [Verbose] Rest: GET users/@me: 610.46 ms
+04:41:03 [Info] Gateway: Connecting
+04:41:03 [Verbose] Rest: GET gateway: 46.43 ms
+04:41:04 [Info] Gateway: Connected
+04:41:04 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+04:41:04 [Info] Gateway: Ready
+04:41:11 [Verbose] Rest: POST channels/872946232983699526/messages: 212.07 ms
+04:41:11 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+04:45:41 [Info] Discord: Discord.Net v2.4.0 (API v6)
+04:45:42 [Verbose] Rest: GET users/@me: 544.1 ms
+04:45:42 [Info] Gateway: Connecting
+04:45:42 [Verbose] Rest: GET gateway: 44.32 ms
+04:45:42 [Info] Gateway: Connected
+04:45:42 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+04:45:43 [Info] Gateway: Ready
+04:47:08 [Verbose] Rest: POST channels/872946232983699526/messages: 219.2 ms
+04:47:10 [Verbose] Rest: PUT channels/872946232983699526/messages/876507314948034560/reactions/%f0%9f%9f%a5/@me: 110.78 ms
+04:47:10 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/872946232983699526/messages/876507314948034560/reactions/%f0%9f%9f%a9/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+04:47:11 [Verbose] Rest: PUT channels/872946232983699526/messages/876507314948034560/reactions/%f0%9f%9f%a9/@me: 1199.15 ms
+04:47:11 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/872946232983699526/messages/876507314948034560/reactions/%f0%9f%9f%a8/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+04:47:13 [Verbose] Rest: PUT channels/872946232983699526/messages/876507314948034560/reactions/%f0%9f%9f%a8/@me: 1192.38 ms
+04:47:13 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/872946232983699526/messages/876507314948034560/reactions/%f0%9f%9f%aa/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+04:47:14 [Verbose] Rest: PUT channels/872946232983699526/messages/876507314948034560/reactions/%f0%9f%9f%aa/@me: 1312.43 ms
+04:47:14 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/872946232983699526/messages/876507314948034560/reactions/%f0%9f%9f%a6/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+04:47:16 [Verbose] Rest: PUT channels/872946232983699526/messages/876507314948034560/reactions/%f0%9f%9f%a6/@me: 1674.84 ms
+04:47:16 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+04:48:28 [Verbose] Rest: POST channels/872946232983699526/messages: 116.31 ms
+04:48:28 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+04:49:43 [Verbose] Rest: POST channels/872946232983699526/messages: 128.14 ms
+04:49:43 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+04:51:32 [Verbose] Rest: POST channels/872946232983699526/messages: 135.25 ms
+04:51:32 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+04:52:08 [Verbose] Rest: POST channels/872946232983699526/messages: 132.56 ms
+04:52:09 [Verbose] Rest: PUT channels/872946232983699526/messages/876508572308095066/reactions/%e2%9c%85/@me: 173.24 ms
+04:52:09 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+04:52:37 [Verbose] Rest: POST channels/872946232983699526/messages: 281.21 ms
+04:52:37 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+04:53:26 [Verbose] Rest: POST channels/872946232983699526/messages: 166.99 ms
+04:53:27 [Verbose] Rest: PUT channels/872946232983699526/messages/876508900915027989/reactions/%e2%9c%85/@me: 121.1 ms
+04:53:27 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+04:54:23 [Verbose] Rest: POST channels/872946232983699526/messages: 111.82 ms
+04:54:24 [Verbose] Rest: PUT channels/872946232983699526/messages/876509138325229568/reactions/%e2%9c%85/@me: 289.99 ms
+04:54:24 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Soviet Nuclear Testing Facility/general
+05:10:33 [Info] Discord: Discord.Net v2.4.0 (API v6)
+05:10:34 [Verbose] Rest: GET users/@me: 635.03 ms
+05:10:34 [Info] Gateway: Connecting
+05:10:34 [Verbose] Rest: GET gateway: 46.81 ms
+05:10:35 [Info] Gateway: Connected
+05:10:35 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+05:10:35 [Verbose] Gateway: Connected to Barnabas's Test server
+05:10:35 [Info] Gateway: Ready
+05:10:51 [Verbose] Rest: POST channels/852229238617669672/messages: 128.91 ms
+05:10:51 [Verbose] Command: Executed "botstatus" for Cdub8D#7793 in Barnabas's Test server/general
+05:14:27 [Info] Discord: Discord.Net v2.4.0 (API v6)
+05:14:28 [Verbose] Rest: GET users/@me: 594.33 ms
+05:14:28 [Info] Gateway: Connecting
+05:14:28 [Verbose] Rest: GET gateway: 44.44 ms
+05:14:29 [Info] Gateway: Connected
+05:14:29 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+05:14:29 [Verbose] Gateway: Connected to Barnabas's Test server
+05:14:29 [Info] Gateway: Ready
+05:15:29 [Info] Discord: Discord.Net v2.4.0 (API v6)
+05:15:30 [Verbose] Rest: GET users/@me: 544.23 ms
+05:15:30 [Info] Gateway: Connecting
+05:15:30 [Verbose] Rest: GET gateway: 45.78 ms
+05:15:31 [Info] Gateway: Connected
+05:15:31 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+05:15:31 [Verbose] Gateway: Connected to Barnabas's Test server
+05:15:31 [Info] Gateway: Ready
+05:16:23 [Verbose] Rest: POST channels/852229238617669672/messages: 315.05 ms
+05:16:25 [Verbose] Rest: PUT channels/852229238617669672/messages/876514673615331348/reactions/%e2%9c%85/@me: 109.4 ms
+05:16:25 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas's Test server/general
+05:16:45 [Verbose] Rest: POST channels/852229238617669672/messages: 150.52 ms
+05:16:45 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Barnabas's Test server/general
+05:16:55 [Verbose] Rest: POST channels/852229238617669672/messages: 166.11 ms
+05:16:55 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Barnabas's Test server/general
+05:17:56 [Verbose] Rest: POST channels/852229238617669672/messages: 168.09 ms
+05:17:58 [Verbose] Rest: PUT channels/852229238617669672/messages/876515067821182976/reactions/%e2%9c%85/@me: 163.8 ms
+05:17:58 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas's Test server/general
+05:18:04 [Verbose] Rest: POST channels/852229238617669672/messages: 144.55 ms
+05:18:05 [Verbose] Rest: PUT channels/852229238617669672/messages/876515098024345630/reactions/%f0%9f%9f%a5/@me: 99.02 ms
+05:18:05 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/852229238617669672/messages/876515098024345630/reactions/%f0%9f%9f%a9/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+05:18:06 [Verbose] Rest: PUT channels/852229238617669672/messages/876515098024345630/reactions/%f0%9f%9f%a9/@me: 746.43 ms
+05:18:06 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/852229238617669672/messages/876515098024345630/reactions/%f0%9f%9f%a8/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+05:18:07 [Verbose] Rest: PUT channels/852229238617669672/messages/876515098024345630/reactions/%f0%9f%9f%a8/@me: 1280.63 ms
+05:18:07 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/852229238617669672/messages/876515098024345630/reactions/%f0%9f%9f%aa/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+05:18:08 [Verbose] Rest: PUT channels/852229238617669672/messages/876515098024345630/reactions/%f0%9f%9f%aa/@me: 765.64 ms
+05:18:08 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/852229238617669672/messages/876515098024345630/reactions/%f0%9f%9f%a6/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+05:18:08 [Verbose] Rest: PUT channels/852229238617669672/messages/876515098024345630/reactions/%f0%9f%9f%a6/@me: 571.4 ms
+05:18:08 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas's Test server/general
+05:18:24 [Verbose] Rest: POST channels/852229238617669672/messages: 185.98 ms
+05:18:24 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Barnabas's Test server/general
+05:18:42 [Info] Discord: Discord.Net v2.4.0 (API v6)
+05:18:43 [Verbose] Rest: GET users/@me: 458.01 ms
+05:18:43 [Info] Gateway: Connecting
+05:18:43 [Verbose] Rest: GET gateway: 49.64 ms
+05:18:43 [Info] Gateway: Connected
+05:18:44 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+05:18:44 [Verbose] Gateway: Connected to Barnabas's Test server
+05:18:44 [Info] Gateway: Ready
+05:18:57 [Verbose] Rest: POST channels/852229238617669672/messages: 185.73 ms
+05:18:57 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Barnabas's Test server/general
+05:19:18 [Verbose] Rest: POST channels/852229238617669672/messages: 208.76 ms
+05:19:18 [Verbose] Command: Executed "get_signups" for Barnabas#5091 in Barnabas's Test server/general
+05:19:30 [Verbose] Rest: POST channels/852229238617669672/messages: 206.78 ms
+05:19:30 [Verbose] Command: Executed "get_signups" for Stalinium#9454 in Barnabas's Test server/general
+05:20:19 [Error] Command: Discord.Commands.CommandException: Error occurred executing "create_event" for Cdub8D#7793 in Barnabas's Test server/general.
+ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at CalendarBot.Helpers.EmbedHelper.HandleEventType(String eventType) in C:\Users\Cody\Documents\Projects\CalendarBot\CalendarBot\Helpers\EmbedHelper.cs:line 164
+   at CalendarBot.Helpers.EmbedHelper.BuildEmbedNewEvent(EventParam eventParam) in C:\Users\Cody\Documents\Projects\CalendarBot\CalendarBot\Helpers\EmbedHelper.cs:line 51
+   at CalendarBot.Commands.CreateEventCommand.CreateEvent(EventParam eventParam) in C:\Users\Cody\Documents\Projects\CalendarBot\CalendarBot\Commands\CreateEventCommand.cs:line 23
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteInternalAsync(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+05:20:19 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas's Test server/general
+05:20:46 [Verbose] Rest: POST channels/852229238617669672/messages: 145.42 ms
+05:20:47 [Verbose] Rest: PUT channels/852229238617669672/messages/876515779300978688/reactions/%e2%9c%85/@me: 188.77 ms
+05:20:47 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas's Test server/general
+05:21:58 [Verbose] Rest: POST channels/852229238617669672/messages: 204 ms
+05:21:58 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Barnabas's Test server/general
+05:25:35 [Error] Command: Discord.Commands.CommandException: Error occurred executing "create_event" for Cdub8D#7793 in Barnabas's Test server/general.
+ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at CalendarBot.Helpers.EmbedHelper.HandleEventType(String eventType) in C:\Users\Cody\Documents\Projects\CalendarBot\CalendarBot\Helpers\EmbedHelper.cs:line 164
+   at CalendarBot.Helpers.EmbedHelper.BuildEmbedNewEvent(EventParam eventParam) in C:\Users\Cody\Documents\Projects\CalendarBot\CalendarBot\Helpers\EmbedHelper.cs:line 51
+   at CalendarBot.Commands.CreateEventCommand.CreateEvent(EventParam eventParam) in C:\Users\Cody\Documents\Projects\CalendarBot\CalendarBot\Commands\CreateEventCommand.cs:line 23
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Discord.Commands.CommandInfo.ExecuteInternalAsync(ICommandContext context, Object[] args, IServiceProvider services)
+   --- End of inner exception stack trace ---
+05:25:35 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas's Test server/general
+05:25:43 [Verbose] Rest: POST channels/852229238617669672/messages: 324.82 ms
+05:25:44 [Verbose] Rest: PUT channels/852229238617669672/messages/876517023297962034/reactions/%e2%9c%85/@me: 170.09 ms
+05:25:44 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas's Test server/general
+05:26:35 [Info] Discord: Discord.Net v2.4.0 (API v6)
+05:26:36 [Verbose] Rest: GET users/@me: 520.57 ms
+05:26:36 [Info] Gateway: Connecting
+05:26:36 [Verbose] Rest: GET gateway: 43.67 ms
+05:26:36 [Info] Gateway: Connected
+05:26:37 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+05:26:37 [Verbose] Gateway: Connected to Barnabas's Test server
+05:26:37 [Info] Gateway: Ready
+05:26:48 [Verbose] Rest: POST channels/852229238617669672/messages: 163.19 ms
+05:26:50 [Verbose] Rest: PUT channels/852229238617669672/messages/876517295709650964/reactions/%e2%9c%85/@me: 148.44 ms
+05:26:50 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas's Test server/general
+05:32:34 [Info] Discord: Discord.Net v2.4.0 (API v6)
+05:32:34 [Verbose] Rest: GET users/@me: 586.86 ms
+05:32:34 [Info] Gateway: Connecting
+05:32:34 [Verbose] Rest: GET gateway: 46.1 ms
+05:32:35 [Info] Gateway: Connected
+05:32:35 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+05:32:35 [Verbose] Gateway: Connected to Barnabas's Test server
+05:32:36 [Info] Gateway: Ready
+05:35:02 [Info] Discord: Discord.Net v2.4.0 (API v6)
+05:35:02 [Verbose] Rest: GET users/@me: 577.89 ms
+05:35:02 [Info] Gateway: Connecting
+05:35:02 [Verbose] Rest: GET gateway: 43.97 ms
+05:35:03 [Info] Gateway: Connected
+05:35:03 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+05:35:03 [Verbose] Gateway: Connected to Barnabas's Test server
+05:35:04 [Info] Gateway: Ready
+05:35:15 [Verbose] Rest: POST channels/852229238617669672/messages: 207.82 ms
+05:35:17 [Verbose] Rest: PUT channels/852229238617669672/messages/876519425031938098/reactions/%e2%9c%85/@me: 156.84 ms
+05:35:17 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas's Test server/general
+05:36:34 [Info] Discord: Discord.Net v2.4.0 (API v6)
+05:36:34 [Verbose] Rest: GET users/@me: 535.59 ms
+05:36:34 [Info] Gateway: Connecting
+05:36:35 [Verbose] Rest: GET gateway: 42.26 ms
+05:36:35 [Info] Gateway: Connected
+05:36:35 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+05:36:35 [Verbose] Gateway: Connected to Barnabas's Test server
+05:36:36 [Info] Gateway: Ready
+05:37:03 [Verbose] Rest: POST channels/852229238617669672/messages: 156.62 ms
+05:37:05 [Verbose] Rest: PUT channels/852229238617669672/messages/876519877521858670/reactions/%e2%9c%85/@me: 111.09 ms
+05:37:05 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas's Test server/general
+05:39:46 [Info] Discord: Discord.Net v2.4.0 (API v6)
+05:39:47 [Verbose] Rest: GET users/@me: 486.47 ms
+05:39:47 [Info] Gateway: Connecting
+05:39:47 [Verbose] Rest: GET gateway: 46.06 ms
+05:39:48 [Info] Gateway: Connected
+05:39:48 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+05:39:48 [Verbose] Gateway: Connected to Barnabas's Test server
+05:39:48 [Info] Gateway: Ready
+05:39:59 [Verbose] Rest: POST channels/852229238617669672/messages: 181.8 ms
+05:40:01 [Verbose] Rest: PUT channels/852229238617669672/messages/876520615157313577/reactions/%e2%9c%85/@me: 160.5 ms
+05:40:01 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas's Test server/general
+05:46:29 [Verbose] Rest: POST channels/852229238617669672/messages: 319.91 ms
+05:46:45 [Verbose] Rest: POST channels/852229238617669672/messages: 249.92 ms
+05:46:45 [Verbose] Command: Executed "botstatus" for Cdub8D#7793 in Barnabas's Test server/general
+06:27:37 [Info] Discord: Discord.Net v2.4.0 (API v6)
+06:27:38 [Verbose] Rest: GET users/@me: 670.05 ms
+06:27:38 [Info] Gateway: Connecting
+06:27:38 [Verbose] Rest: GET gateway: 45.43 ms
+06:27:39 [Info] Gateway: Connected
+06:27:39 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+06:27:39 [Verbose] Gateway: Connected to Barnabas's Test server
+06:27:39 [Info] Gateway: Ready
+06:31:03 [Info] Discord: Discord.Net v2.4.0 (API v6)
+06:31:03 [Verbose] Rest: GET users/@me: 528.19 ms
+06:31:03 [Info] Gateway: Connecting
+06:31:03 [Verbose] Rest: GET gateway: 46.5 ms
+06:31:04 [Info] Gateway: Connected
+06:31:04 [Verbose] Gateway: Connected to Barnabas's Test server
+06:31:04 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+06:31:05 [Info] Gateway: Ready
+06:31:35 [Verbose] Command: Executed "set_eventPostChannel" for Cdub8D#7793 in Barnabas's Test server/general
+06:31:47 [Verbose] Command: Executed "set_eventCreateChannel" for Cdub8D#7793 in Barnabas's Test server/general
+06:32:14 [Verbose] Rest: POST channels/852229238617669672/messages: 164.03 ms
+06:32:16 [Verbose] Rest: PUT channels/852229238617669672/messages/876533765759971358/reactions/%e2%9c%85/@me: 195.92 ms
+06:32:16 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas's Test server/general
+06:36:45 [Info] Discord: Discord.Net v2.4.0 (API v6)
+06:36:45 [Verbose] Rest: GET users/@me: 565.95 ms
+06:36:45 [Info] Gateway: Connecting
+06:36:45 [Verbose] Rest: GET gateway: 42.68 ms
+06:36:46 [Info] Gateway: Connected
+06:36:46 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+06:36:46 [Verbose] Gateway: Connected to Barnabas's Test server
+06:36:47 [Info] Gateway: Ready
+06:36:54 [Verbose] Rest: POST channels/865681083169636362/messages: 314.32 ms
+06:36:55 [Verbose] Rest: PUT channels/865681083169636362/messages/876534936830623745/reactions/%e2%9c%85/@me: 126.72 ms
+06:36:55 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas's Test server/general
+06:37:14 [Verbose] Rest: POST channels/852229238617669672/messages: 118.43 ms
+06:37:14 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Barnabas's Test server/general
+06:37:39 [Info] Discord: Discord.Net v2.4.0 (API v6)
+06:37:40 [Verbose] Rest: GET users/@me: 495.39 ms
+06:37:40 [Info] Gateway: Connecting
+06:37:40 [Verbose] Rest: GET gateway: 47.22 ms
+06:37:41 [Info] Gateway: Connected
+06:37:41 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+06:37:41 [Verbose] Gateway: Connected to Barnabas's Test server
+06:37:41 [Info] Gateway: Ready
+06:37:51 [Warning] Gateway: A ReactionRemoved handler is blocking the gateway task.
+06:38:05 [Warning] Gateway: A ReactionAdded handler is blocking the gateway task.
+06:38:27 [Info] Discord: Discord.Net v2.4.0 (API v6)
+06:38:28 [Verbose] Rest: GET users/@me: 459.12 ms
+06:38:28 [Info] Gateway: Connecting
+06:38:28 [Verbose] Rest: GET gateway: 49.41 ms
+06:38:29 [Info] Gateway: Connected
+06:38:29 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+06:38:29 [Verbose] Gateway: Connected to Barnabas's Test server
+06:38:29 [Info] Gateway: Ready
+06:38:43 [Verbose] Rest: POST channels/852229238617669672/messages: 134.63 ms
+06:38:43 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Barnabas's Test server/general
+06:44:04 [Info] Discord: Discord.Net v2.4.0 (API v6)
+06:44:05 [Verbose] Rest: GET users/@me: 542.13 ms
+06:44:05 [Info] Gateway: Connecting
+06:44:05 [Verbose] Rest: GET gateway: 44.01 ms
+06:44:06 [Info] Gateway: Connected
+06:44:06 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+06:44:06 [Verbose] Gateway: Connected to Barnabas's Test server
+06:44:06 [Info] Gateway: Ready
+06:44:14 [Verbose] Rest: POST channels/856617302735716384/messages: 197.77 ms
+06:44:24 [Verbose] Rest: POST channels/856649641612673064/messages: 159.53 ms
+06:44:27 [Verbose] Rest: POST channels/852229238617669672/messages: 120.1 ms
+06:44:27 [Verbose] Command: Executed "botstatus" for Cdub8D#7793 in Barnabas's Test server/general
+06:44:40 [Verbose] Rest: POST channels/865681083169636362/messages: 193.29 ms
+06:48:57 [Info] Discord: Discord.Net v2.4.0 (API v6)
+06:48:57 [Verbose] Rest: GET users/@me: 540.32 ms
+06:48:57 [Info] Gateway: Connecting
+06:48:58 [Verbose] Rest: GET gateway: 46.61 ms
+06:48:58 [Info] Gateway: Connected
+06:48:58 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+06:48:58 [Verbose] Gateway: Connected to Barnabas's Test server
+06:48:59 [Info] Gateway: Ready
+06:49:07 [Verbose] Rest: POST channels/852229238617669672/messages: 129.9 ms
+06:49:07 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Barnabas's Test server/general
+06:49:20 [Verbose] Rest: POST channels/865681083169636362/messages: 135.61 ms
+06:50:23 [Verbose] Rest: POST channels/865681083169636362/messages: 183.44 ms
+06:50:25 [Verbose] Rest: PUT channels/865681083169636362/messages/876538333961019492/reactions/%e2%9c%85/@me: 109.59 ms
+06:50:25 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas's Test server/general
+06:50:40 [Verbose] Rest: POST channels/852229238617669672/messages: 164.68 ms
+06:50:40 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Barnabas's Test server/general
+06:50:53 [Verbose] Rest: POST channels/865681083169636362/messages: 131.45 ms
+06:50:54 [Verbose] Rest: PUT channels/865681083169636362/messages/876538458070450207/reactions/%f0%9f%9f%a5/@me: 429.88 ms
+06:50:54 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/865681083169636362/messages/876538458070450207/reactions/%f0%9f%9f%a9/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+06:50:55 [Verbose] Rest: PUT channels/865681083169636362/messages/876538458070450207/reactions/%f0%9f%9f%a9/@me: 286.91 ms
+06:50:55 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/865681083169636362/messages/876538458070450207/reactions/%f0%9f%9f%a8/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+06:50:56 [Verbose] Rest: PUT channels/865681083169636362/messages/876538458070450207/reactions/%f0%9f%9f%a8/@me: 851 ms
+06:50:56 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/865681083169636362/messages/876538458070450207/reactions/%f0%9f%9f%aa/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+06:50:56 [Verbose] Rest: PUT channels/865681083169636362/messages/876538458070450207/reactions/%f0%9f%9f%aa/@me: 595.09 ms
+06:50:56 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/865681083169636362/messages/876538458070450207/reactions/%f0%9f%9f%a6/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+06:50:58 [Verbose] Rest: PUT channels/865681083169636362/messages/876538458070450207/reactions/%f0%9f%9f%a6/@me: 2006.66 ms
+06:50:58 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas's Test server/general
+06:51:13 [Verbose] Rest: POST channels/852229238617669672/messages: 126.07 ms
+06:51:13 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Barnabas's Test server/general
+06:52:50 [Verbose] Rest: POST channels/865681083169636362/messages: 157.42 ms
+06:52:51 [Verbose] Rest: PUT channels/865681083169636362/messages/876538949324128296/reactions/%e2%9c%85/@me: 188.28 ms
+06:52:51 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas's Test server/general
+06:53:09 [Verbose] Rest: POST channels/865681083169636362/messages: 132.32 ms
+06:53:10 [Verbose] Rest: PUT channels/865681083169636362/messages/876539027157844019/reactions/%e2%9c%85/@me: 280.96 ms
+06:53:10 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas's Test server/general
+06:54:22 [Verbose] Rest: POST channels/852229238617669672/messages: 190.78 ms
+06:54:22 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Barnabas's Test server/general
+06:55:28 [Verbose] Rest: POST channels/865681083169636362/messages: 244.41 ms
+06:55:29 [Verbose] Rest: PUT channels/865681083169636362/messages/876539611646660638/reactions/%e2%9c%85/@me: 104 ms
+06:55:29 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas's Test server/general
+07:35:11 [Info] Discord: Discord.Net v2.4.0 (API v6)
+07:35:11 [Verbose] Rest: GET users/@me: 570.97 ms
+07:35:12 [Info] Gateway: Connecting
+07:35:12 [Verbose] Rest: GET gateway: 44.34 ms
+07:35:12 [Info] Gateway: Connected
+07:35:12 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+07:35:12 [Verbose] Gateway: Connected to Barnabas's Test server
+07:35:13 [Info] Gateway: Ready
+07:35:27 [Verbose] Rest: POST channels/852229238617669672/messages: 172.54 ms
+07:35:27 [Verbose] Command: Executed "botstatus" for Cdub8D#7793 in Barnabas's Test server/general
+08:28:52 [Info] Discord: Discord.Net v2.4.0 (API v6)
+08:28:53 [Verbose] Rest: GET users/@me: 630.85 ms
+08:28:53 [Info] Gateway: Connecting
+08:28:53 [Verbose] Rest: GET gateway: 45.65 ms
+08:28:54 [Info] Gateway: Connected
+08:28:54 [Verbose] Gateway: Connected to Soviet Nuclear Testing Facility
+08:28:54 [Verbose] Gateway: Connected to Barnabas's Test server
+08:28:55 [Info] Gateway: Ready
+08:29:19 [Verbose] Rest: POST channels/865681083169636362/messages: 194.66 ms
+08:29:20 [Verbose] Rest: PUT channels/865681083169636362/messages/876563229835411457/reactions/%e2%9c%85/@me: 178.58 ms
+08:29:20 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas's Test server/general
+08:29:42 [Verbose] Rest: POST channels/852229238617669672/messages: 156.54 ms
+08:29:42 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Barnabas's Test server/general
+08:30:20 [Verbose] Rest: POST channels/865681083169636362/messages: 157.66 ms
+08:30:21 [Verbose] Rest: PUT channels/865681083169636362/messages/876563486040268880/reactions/%f0%9f%9f%a5/@me: 134.88 ms
+08:30:21 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/865681083169636362/messages/876563486040268880/reactions/%f0%9f%9f%a9/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+08:30:22 [Verbose] Rest: PUT channels/865681083169636362/messages/876563486040268880/reactions/%f0%9f%9f%a9/@me: 380.32 ms
+08:30:22 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/865681083169636362/messages/876563486040268880/reactions/%f0%9f%9f%a8/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+08:30:23 [Verbose] Rest: PUT channels/865681083169636362/messages/876563486040268880/reactions/%f0%9f%9f%a8/@me: 1525.92 ms
+08:30:23 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/865681083169636362/messages/876563486040268880/reactions/%f0%9f%9f%aa/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+08:30:24 [Verbose] Rest: PUT channels/865681083169636362/messages/876563486040268880/reactions/%f0%9f%9f%aa/@me: 1299.03 ms
+08:30:24 [Verbose] Rest: Preemptive Rate limit triggered: PUT channels/865681083169636362/messages/876563486040268880/reactions/%f0%9f%9f%a6/@me (Bucket: d6b7697c78814ecd72bb20df05517c78)
+08:30:26 [Verbose] Rest: PUT channels/865681083169636362/messages/876563486040268880/reactions/%f0%9f%9f%a6/@me: 1352.94 ms
+08:30:26 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas's Test server/general
+08:30:59 [Verbose] Rest: POST channels/852229238617669672/messages: 155.76 ms
+08:30:59 [Verbose] Command: Executed "get_signups" for Cdub8D#7793 in Barnabas's Test server/general
+08:31:41 [Verbose] Rest: POST channels/865681083169636362/messages: 154.21 ms
+08:31:43 [Verbose] Rest: PUT channels/865681083169636362/messages/876563826819088425/reactions/%e2%9c%85/@me: 117.24 ms
+08:31:43 [Verbose] Command: Executed "create_event" for Cdub8D#7793 in Barnabas's Test server/general

@@ -1,0 +1,12 @@
+C:\Users\Cody\Documents\Projects\CalendarBot\Calendar.DB\bin\Debug\netcoreapp3.1\linux-x64\Calendar.DB.deps.json
+C:\Users\Cody\Documents\Projects\CalendarBot\Calendar.DB\bin\Debug\netcoreapp3.1\linux-x64\Calendar.DB.runtimeconfig.json
+C:\Users\Cody\Documents\Projects\CalendarBot\Calendar.DB\bin\Debug\netcoreapp3.1\linux-x64\Calendar.DB.runtimeconfig.dev.json
+C:\Users\Cody\Documents\Projects\CalendarBot\Calendar.DB\bin\Debug\netcoreapp3.1\linux-x64\Calendar.DB.dll
+C:\Users\Cody\Documents\Projects\CalendarBot\Calendar.DB\bin\Debug\netcoreapp3.1\linux-x64\Calendar.DB.pdb
+C:\Users\Cody\Documents\Projects\CalendarBot\Calendar.DB\obj\Debug\netcoreapp3.1\linux-x64\Calendar.DB.AssemblyInfoInputs.cache
+C:\Users\Cody\Documents\Projects\CalendarBot\Calendar.DB\obj\Debug\netcoreapp3.1\linux-x64\Calendar.DB.AssemblyInfo.cs
+C:\Users\Cody\Documents\Projects\CalendarBot\Calendar.DB\obj\Debug\netcoreapp3.1\linux-x64\Calendar.DB.csproj.CoreCompileInputs.cache
+C:\Users\Cody\Documents\Projects\CalendarBot\Calendar.DB\obj\Debug\netcoreapp3.1\linux-x64\Calendar.DB.dll
+C:\Users\Cody\Documents\Projects\CalendarBot\Calendar.DB\obj\Debug\netcoreapp3.1\linux-x64\Calendar.DB.pdb
+C:\Users\Cody\Documents\Projects\CalendarBot\Calendar.DB\obj\Debug\netcoreapp3.1\linux-x64\Calendar.DB.genruntimeconfig.cache
+C:\Users\Cody\Documents\Projects\CalendarBot\Calendar.DB\obj\Debug\netcoreapp3.1\linux-x64\Calendar.DB.csproj.AssemblyReference.cache
